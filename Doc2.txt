@@ -1,1 +1,5 @@
 Namaste World !
+<<<<<<< HEAD
+=======
+This is my new file.
+>>>>>>> parent of cbec677 (Script file added here)
