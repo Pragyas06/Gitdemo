@@ -1,2 +1,4 @@
 Namaste World !
 This is my new file.
+
+File script.js is added in this repo.
